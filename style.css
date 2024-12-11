@@ -15,7 +15,10 @@ header{
 .nav-item a:hover{
     color: aliceblue;
 }
-
+.hero a{
+    text-decoration: none;
+    color: #f5f2f4;
+}
 #app{
     color: #B3679B;
 }
